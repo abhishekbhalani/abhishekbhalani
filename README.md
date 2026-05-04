@@ -1,83 +1,43 @@
-### Hello, I'm [Abhishek Bhalani!] 👋
+# Hi, I'm Abhishek Bhalani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbhalani&label=Views&color=blue&style=plastic" alt="abhishek" /> </p>
+Enterprise-focused software architect and builder working at the intersection of platform engineering, applied AI, and product delivery.
 
-<a href="https://twitter.com/abhishekbhalani">
-  <img align="left" alt="Abhi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Abhi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/abhishekbhalani">
-  <img align="left" alt="Abhi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> 
-<a href="https://instagram.com/abhishekbhalani/">
-  <img align="left" alt="Abhi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+## What I Do
 
-<br/>
+- Design and ship AI solutions for real business workflows
+- Build production-minded RAG and agentic systems
+- Create hands-on PoCs and starter architectures teams can adopt quickly
+- Focus on reliability, observability, governance, and cost optimization
 
+## Current Focus (2026)
 
-- 🌱 We’re currently Working on .NetCore platform, have worked on C# & Microsoft Technology & Databases.
-- 🌱 We’re currently learning more about BlockChain, Ether, Token etc..
+- Enterprise AI architecture patterns
+- RAG quality and evaluation frameworks
+- Agent orchestration and tool-calling workflows
+- Prompt optimization and token-cost efficiency
+- Local + cloud model routing strategies
 
+## AI Stack
 
-- 📫 How to reach me: [Twitter - @abhishekbhalani](https://twitter.com/abhishekbhalani))
- 
-[![Twitter: bhalaniabhishek](https://img.shields.io/twitter/follow/abhishekbhalani?style=social)](https://twitter.com/abhishekbhalani)
-[![Linkedin: bhalaniabhishek](https://img.shields.io/badge/-abhishekbhalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/bhalaniabhishek/)](https://in.linkedin.com/in/bhalaniabhishek/)
-[![GitHub abhishekbhalani](https://img.shields.io/github/followers/abhishekbhalani?label=follow&style=social)](https://github.com/abhishekbhalani)
- 
+- **Languages:** Python, TypeScript/JavaScript, C#
+- **Backend:** FastAPI, API-first microservices
+- **AI:** RAG pipelines, prompt engineering, agent workflows
+- **Runtime:** Ollama, LM Studio, cloud-hosted LLMs
+- **Cloud & Platform:** Azure, AWS, containerized deployments
+- **Data:** SQL Server, PostgreSQL, MongoDB
+- **Ops:** tracing, evaluation loops, production diagnostics
 
-**Languages and Tools:**  
+## Featured Repository
 
+- [Enterprise-AI-RAG-Agent](https://github.com/abhishekbhalani/Enterprise-AI-RAG-Agent)  
+  Enterprise AI starter with FastAPI, RAG retrieval, agent flow, prompt compression, observability, and evaluation harness.
 
-<code><img height="50" src="https://avatars2.githubusercontent.com/u/9141961?s=200&v=4"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-      
-<div align="center">
+## Connect
 
-### Show some ❤️ by starring some of the repositories!
+- GitHub: [@abhishekbhalani](https://github.com/abhishekbhalani)
+- LinkedIn: [imthepk](https://linkedin.com/in/imthepk)
+- X/Twitter: [@abhishekbhalani](https://twitter.com/abhishekbhalani)
 
-</div>
+---
 
-
-<!-- ### Hi there 👋
-
-** abhishekbhalani/abhishekbhalani ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to collaboration on enterprise AI architecture, agentic systems, and production-grade AI platform engineering.

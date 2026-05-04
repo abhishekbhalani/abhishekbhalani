@@ -35,7 +35,7 @@ Enterprise-focused software architect and builder working at the intersection of
 ## Connect
 
 - GitHub: [@abhishekbhalani](https://github.com/abhishekbhalani)
-- LinkedIn: [imthepk](https://linkedin.com/in/imthepk)
+- LinkedIn: [bhalaniabhishek](https://www.linkedin.com/in/bhalaniabhishek)
 - X/Twitter: [@abhishekbhalani](https://twitter.com/abhishekbhalani)
 
 ---
